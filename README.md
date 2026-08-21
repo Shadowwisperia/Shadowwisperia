@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowwisperia" alt="shadowwisperia" /></a> </p>
 
-- 🔭 I’m currently working on **MIATOLL**
+- 🔭 I’m currently working on **MIATOLL (Redmi Note 9 pro series)**
+
+- Planned Devices In the future **Lisa (Xiaomi 11 lite 5g NE)**
 
 - 👨‍💻 All of my projects are available at [t.me/romsbysree](t.me/romsbysree)
 
